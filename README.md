@@ -1,4 +1,4 @@
-This contains the nixpkgs builds for haskell-language-server 0.4.0.0 for GHC version 8.6.5 and and 8.8.4 from nixpkgs that seem to work on my nixos machine.
+This containsbuilds haskell-language-server 0.4.0.0 for GHC version 8.6.5 and and 8.8.4 from nixpkgs that seem to work on my nixos machine.
 You can install them via `nix-env -i -f ./release.nix`.
 
 On my nixos machine I experience issues similar to
