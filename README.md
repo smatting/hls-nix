@@ -2,7 +2,7 @@ This containsbuilds haskell-language-server 0.4.0.0 for GHC version 8.6.5 and an
 You can install them via `nix-env -i -f ./release.nix`.
 
 On my nixos machine I experience issues similar to
-https://github.com/haskell/haskell-language-server/issues/221
+https://github.com/haskell/haskell-language-server/issues/221 when using the static binaries.
 
 ```
 Error dynamically loading libm.so.6:
